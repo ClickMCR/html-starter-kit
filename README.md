@@ -15,7 +15,7 @@ Now that you have a new repo in Github, the next step is to bring this into VS C
 Open a new VS Code Window, by going to `File > New Window` then select the Source Control panel from the menu on the left-hand side. Click on the `Clone Repository` button, copy-paste the URL of your Github repo and hit return, then choose somewhere on your computer to copy the files to. You're off!
 
 ### Step 3: Open in your browser
-You can preview your website from your favourite web browser as you're workong on it in VS Code. Select `File > Open File` from the top menu in your web browser, then open `index.html`. As you make changes to your code, you can use the 'reload' button on the top menu (next to the forward and back buttons) to see your changes.
+You can preview your website from your favourite web browser as you're working on it in VS Code. Select `File > Open File` from the top menu in your web browser, then open `index.html`. As you make changes to your code, you can use the 'reload' button on the browser's top menu (next to the forward and back buttons) to see your changes.
 
 ## Uploading your website to Github Pages
 Once you're ready to move everything up to the web, you have two options. Choose whichever feels the most comfortable!
